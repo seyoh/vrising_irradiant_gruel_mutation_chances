@@ -1,7 +1,7 @@
 import argparse
 import sys
 
-from Simulator import repeatAndCount, SimulateN
+from simulator import repeatAndCount, SimulateN
 from calculator import calculateChanceOfSuccess
 
 
