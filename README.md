@@ -1,4 +1,4 @@
-The following table describes the chances to obtain a 100% blood quality if you keep feeding the prisoner with irradiant gruel until it get to 100% or transforms:
+The following table describes the chances to obtain a 100% blood quality if you keep feeding the prisoner with irradiant gruel until it gets to 100% or transforms:
 
 | Initial Blood <br/> quality percentage | Success chance          |
 |----------------------------------------|-------------------------|
